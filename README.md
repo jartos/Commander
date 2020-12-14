@@ -1,2 +1,2 @@
 # Commander
-Save commands for applications
+API for saving commands for applications.
