@@ -3,6 +3,9 @@
 App for saving commands for applications
 <br/>
 <br/>
+https://azurecommanderapi.azurewebsites.net/api/commands
+<br/>
+<br/>
 <img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/API.png" width="90%">
 <br/>
 <br/>
