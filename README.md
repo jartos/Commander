@@ -1,5 +1,5 @@
 # Commander
-ASP.NET Core REST API<br/>
+.NET Core REST API<br/>
 App for saving commands for applications
 <br/>
 <br/>
