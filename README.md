@@ -11,10 +11,10 @@ MODEL
 <img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/MODEL.png" width="30%">
 <br/>
 <br/>
+<br/>
 GET
 <br/>
 <img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET.jpg" width="80%">
-<br/>
 <br/>
 <br/>
 <br/>
@@ -24,10 +24,10 @@ GET with id
 <br/>
 <br/>
 <br/>
-<br/>
 POST
 <br/>
 <img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/POST.png" width="80%">
+<br/>
 <br/>
 <br/>
 PUT
@@ -35,9 +35,11 @@ PUT
 <img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/PUT.png" width="80%">
 <br/>
 <br/>
+<br/>
 PATCH
 <br/>
 <img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/PATCH.png" width="80%">
+<br/>
 <br/>
 <br/>
 DELETE
