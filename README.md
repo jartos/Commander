@@ -16,9 +16,13 @@ GET
 <img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET.jpg" width="80%">
 <br/>
 <br/>
+<br/>
+<br/>
 GET with id
 <br/>
 <img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET%3A1.jpg" width="80%">
+<br/>
+<br/>
 <br/>
 <br/>
 POST
