@@ -3,7 +3,7 @@
 App for saving commands for applications
 <br/>
 <br/>
-<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/CommanderAPI.png" width="80%">
+<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/API.png" width="80%">
 <br/>
 <br/>
 MODEL
