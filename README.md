@@ -8,13 +8,13 @@ App for saving commands for applications
 <br/>
 MODEL
 <br/>
-<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/MODEL.png" width="40%">
+<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/MODEL.png" width="30%">
 <br/>
 <br/>
 <br/>
 GET
 <br/>
-<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET.jpg" width="90%">
+<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET.jpg" width="80%">
 <br/>
 <br/>
 <br/>
