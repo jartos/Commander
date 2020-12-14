@@ -13,12 +13,12 @@ MODEL
 <br/>
 GET
 <br/>
-<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET.png" width="80%">
+<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET.jpg" width="80%">
 <br/>
 <br/>
 GET with id
 <br/>
-<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET%3A1.png" width="80%">
+<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET%3A1.jpg" width="80%">
 <br/>
 <br/>
 POST
