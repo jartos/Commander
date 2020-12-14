@@ -3,18 +3,18 @@
 App for saving commands for applications
 <br/>
 <br/>
-<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/API.png" width="80%">
+<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/API.png" width="90%">
 <br/>
 <br/>
 MODEL
 <br/>
-<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/MODEL.png" width="30%">
+<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/MODEL.png" width="40%">
 <br/>
 <br/>
 <br/>
 GET
 <br/>
-<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET.jpg" width="80%">
+<img src="https://terveysdata-app.s3.eu-central-1.amazonaws.com/Commander/GET.jpg" width="90%">
 <br/>
 <br/>
 <br/>
