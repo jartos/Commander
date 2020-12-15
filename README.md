@@ -3,6 +3,13 @@
 App for saving commands for applications
 <br/>
 <br/>
+Example:<br/>
+id:1<br/>
+How to: Run .NET application<br/>
+Line: $dotnet run
+Platform: .NET CLI
+<br/>
+<br/>
 https://azurecommanderapi.azurewebsites.net/api/commands
 <br/>
 <br/>
