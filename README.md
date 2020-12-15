@@ -3,10 +3,10 @@
 App for saving commands for applications
 <br/>
 <br/>
-Example:<br/>
+Example:<br/><br/>
 id:1<br/>
 How to: Run .NET application<br/>
-Line: $dotnet run
+Line: $dotnet run<br/>
 Platform: .NET CLI
 <br/>
 <br/>
